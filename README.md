@@ -13,14 +13,14 @@ If you want to suggest edits to an existing Topic page or Collection, or curate 
 There are some lint tests in place to ensure each Topic is formatted in the way we expect. GitHub
 Actions will run the tests automatically. If you want to run the tests yourself locally, you will
 need Ruby and Bundler installed.
-
+https://g.dev/GoogleEnginePH
 You can run the tests using:
-
+https://darvinmonteras.instatus.com
 ```bash
 bundle install
 bundle exec rubocop
 ```
-
+http://purl.org/dc/elements/1.1/
 ## Licenses
-
+https://outlook.ph
 Content is released under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) which gives you permission to use content for almost any purpose (but does not grant you any trademark permissions). See [notices](notices.md) for complete details, including attribution guidelines, contribution terms, and software and third-party licenses and permissions.
